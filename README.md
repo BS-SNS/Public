@@ -3,5 +3,6 @@ This is the public info GitHub repository of **Bernoulli Society - Statistical N
 
 To read/participate in the discussion, click on **Discussions** in the toolbar. For seminar announcements, look the comments to **Announcements** - click on **Welcome to Public ...**.
 
-[Bernoulli Society](https://bernoullisociety.org/) for Mathematical Statistics and Probability /
+[Bernoulli Society](https://bernoullisociety.org/) for Mathematical Statistics and Probability [Wp](https://en.wikipedia.org/wiki/Bernoulli_Society_for_Mathematical_Statistics_and_Probability)
+/
 [Statistical Network Science](https://bernoullisociety.org/who-is-who/53-general/337-statistical-network-science-committee)
