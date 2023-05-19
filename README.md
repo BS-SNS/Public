@@ -8,3 +8,4 @@ To read/participate in the discussion, click on **Discussions** in the toolbar. 
 [Statistical Network Science](https://bernoullisociety.org/who-is-who/53-general/337-statistical-network-science-committee)
 
 * [Conferences and meetings](conf/README.md)
+* [BS-SNS seminars](https://github.com/BS-SNS/Public/discussions/1)
