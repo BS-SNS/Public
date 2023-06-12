@@ -21,15 +21,13 @@ https://www.youtube.com/watch?v=XoLxQfi194c
  
 
 ## Some online seminars
-* Prof. Gesine Reinert, [Turing Institute Talk](https://www.youtube.com/watch?v=l1iSbsQjWxo)
-* Prof. Gesine Reinert, Master Class [Inference of Networks](https://www.youtube.com/watch?v=Ha32LmYLmrU)
-* Prof. Gesine Reinert, [Estimating the number of communities in a network](https://www.newton.ac.uk/seminar/20160727093010001)
-* Dr. Veronica Vinciotti, [Sparse Gaussian graphical models for dynamic gene regulatory networks](https://www.newton.ac.uk/seminar/20161214111512001)
-* Prof. Ernst Wit, [Network inference in genomics](https://www.newton.ac.uk/seminar/20160824113012301)
-
-https://www.newton.ac.uk/seminar/20160715113012001 Prof. Neil Friel, "Properties of Latent Variable Network Models
-
-https://www.newton.ac.uk/seminar/20160728091510152 Dr. Alberto Caimo, "Bayesian ERGMs -- computational and modelling challenges
+- Prof. Gesine Reinert, [Turing Institute Talk](https://www.youtube.com/watch?v=l1iSbsQjWxo)
+- Prof. Gesine Reinert, Master Class [Inference of Networks](https://www.youtube.com/watch?v=Ha32LmYLmrU)
+- Prof. Gesine Reinert, [Estimating the number of communities in a network](https://www.newton.ac.uk/seminar/20160727093010001)
+- Dr. Veronica Vinciotti, [Sparse Gaussian graphical models for dynamic gene regulatory networks](https://www.newton.ac.uk/seminar/20161214111512001)
+- Prof. Ernst Wit, [Network inference in genomics](https://www.newton.ac.uk/seminar/20160824113012301)
+- Prof. Neil Friel, [Properties of Latent Variable Network Models](https://www.newton.ac.uk/seminar/20160715113012001)
+- Dr. Alberto Caimo, [Bayesian ERGMs -- computational and modelling challenges](https://www.newton.ac.uk/seminar/20160728091510152)
 
 https://www.newton.ac.uk/seminar/20160825104011001 Dr. Pariya Behrouzi, "Detecting Epistatic Selection in the Genome of RILs via a latent Gaussian Copula Graphical Model
 
