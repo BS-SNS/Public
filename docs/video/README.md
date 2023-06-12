@@ -38,5 +38,5 @@ https://www.youtube.com/watch?v=XoLxQfi194c
 - Prof. Tom Britton, [A network epidemic model with preventive rewiring: comparative analysis of the initial phase](https://www.newton.ac.uk/seminar/20161213093010301)
 - Prof. Stephane Robin, [Detecting change-points in the structure of a network: Exact Bayesian inference](https://www.newton.ac.uk/seminar/20161213160016451)
 - Dr. Catherine Matias, [Statistical clustering of temporal networks through a dynamic stochastic block model](https://www.newton.ac.uk/seminar/20161215160016451)
-- Prof. Niel Lawrence, [Deep Probabilistic Modelling with Gaussian Processes ostnet.webhosting.rug.nl/dokuwiki/doku.php?id=pub:online](https://www.youtube.com/watch?v=NHTGY8VCinY)
+- Prof. Niel Lawrence, [Deep Probabilistic Modelling with Gaussian Processes](https://www.youtube.com/watch?v=NHTGY8VCinY)
 
