@@ -28,26 +28,15 @@ https://www.youtube.com/watch?v=XoLxQfi194c
 - Prof. Ernst Wit, [Network inference in genomics](https://www.newton.ac.uk/seminar/20160824113012301)
 - Prof. Neil Friel, [Properties of Latent Variable Network Models](https://www.newton.ac.uk/seminar/20160715113012001)
 - Dr. Alberto Caimo, [Bayesian ERGMs -- computational and modelling challenges](https://www.newton.ac.uk/seminar/20160728091510152)
-
-https://www.newton.ac.uk/seminar/20160825104011001 Dr. Pariya Behrouzi, "Detecting Epistatic Selection in the Genome of RILs via a latent Gaussian Copula Graphical Model
-
-https://www.newton.ac.uk/seminar/20160826090009401 Prof. Alberto Roverato, "The Networked Partial Correlation and its Application to the Analysis of Genetic Interactions
-
-https://www.newton.ac.uk/seminar/20160826094010201 Dr. Reza Mohammadi, "Bayesian modelling of Dupuytren disease using Gaussian copula graphical models
-
-https://www.newton.ac.uk/seminar/20160826102010401 Dr. Silvia Fierascu, "Applying network science to political problems. A conceptual and analytical framework for understanding and predicting corruption risks in business-political networks
-
-https://www.newton.ac.uk/seminar/20160826133014101 Dr. Ben Parker, "Optimal Design of Experiments on Connected Units with Application to Social Networks
-
-https://www.newton.ac.uk/seminar/20161212093010301 Prof. Tom Snijders, "Continuous-time statistical models for network panel data
-
-https://www.newton.ac.uk/seminar/20161212111512001 Prof. Eric Kolazyk, "Dynamic causal networks with multi-scale temporal structure
-
-https://www.newton.ac.uk/seminar/20161213093010301 Prof. Tom Britton, "A network epidemic model with preventive rewiring: comparative analysis of the initial phase
-
-https://www.newton.ac.uk/seminar/20161213160016451 Prof. Stephane Robin, "Detecting change-points in the structure of a network: Exact Bayesian inference
-
-https://www.newton.ac.uk/seminar/20161215160016451 Dr. Catherine Matias, "Statistical clustering of temporal networks through a dynamic stochastic block model
-
-https://www.youtube.com/watch?v=NHTGY8VCinY Prof. Niel Lawrence, "Deep Probabilistic Modelling with Gaussian Processes ostnet.webhosting.rug.nl/dokuwiki/doku.php?id=pub:online
+- Dr. Pariya Behrouzi, [Detecting Epistatic Selection in the Genome of RILs via a latent Gaussian Copula Graphical Model](https://www.newton.ac.uk/seminar/20160825104011001)
+- Prof. Alberto Roverato, [The Networked Partial Correlation and its Application to the Analysis of Genetic Interactions](https://www.newton.ac.uk/seminar/20160826090009401)
+- Dr. Reza Mohammadi, [Bayesian modelling of Dupuytren disease using Gaussian copula graphical models](https://www.newton.ac.uk/seminar/20160826094010201)
+- Dr. Silvia Fierascu, [Applying network science to political problems. A conceptual and analytical framework for understanding and predicting corruption risks in business-political networks](https://www.newton.ac.uk/seminar/20160826102010401)
+- Dr. Ben Parker, [Optimal Design of Experiments on Connected Units with Application to Social Networks](https://www.newton.ac.uk/seminar/20160826133014101)
+- Prof. Tom Snijders, [Continuous-time statistical models for network panel data](https://www.newton.ac.uk/seminar/20161212093010301)
+- Prof. Eric Kolazyk, [Dynamic causal networks with multi-scale temporal structure](https://www.newton.ac.uk/seminar/20161212111512001)
+- Prof. Tom Britton, [A network epidemic model with preventive rewiring: comparative analysis of the initial phase](https://www.newton.ac.uk/seminar/20161213093010301)
+- Prof. Stephane Robin, [Detecting change-points in the structure of a network: Exact Bayesian inference](https://www.newton.ac.uk/seminar/20161213160016451)
+- Dr. Catherine Matias, [Statistical clustering of temporal networks through a dynamic stochastic block model](https://www.newton.ac.uk/seminar/20161215160016451)
+- Prof. Niel Lawrence, [Deep Probabilistic Modelling with Gaussian Processes ostnet.webhosting.rug.nl/dokuwiki/doku.php?id=pub:online](https://www.youtube.com/watch?v=NHTGY8VCinY)
 
