@@ -21,9 +21,8 @@ https://www.youtube.com/watch?v=XoLxQfi194c
  
 
 ## Some online seminars
-https://www.youtube.com/watch?v=l1iSbsQjWxo Prof. Gesine Reinert, Turing Institute Talk
-
-https://www.youtube.com/watch?v=Ha32LmYLmrU Prof. Gesine Reinert, Master Class "Inference of Networks
+- Prof. Gesine Reinert, [Turing Institute Talk](https://www.youtube.com/watch?v=l1iSbsQjWxo)
+- Prof. Gesine Reinert, Master Class [Inference of Networks](https://www.youtube.com/watch?v=Ha32LmYLmrU)
 
 https://www.newton.ac.uk/seminar/20160727093010001 Prof. Gesine Reinert, "Estimating the number of communities in a network
 
