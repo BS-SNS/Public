@@ -1,22 +1,17 @@
 # Video
 
 ## Some video links
-Can we use network models to shed new light on global arms trading?
+
+- [Can we use network models to shed new light on global arms trading?](https://www.youtube.com/watch?v=kxzJ9RFSCJ0).
 Using statistical network models to understand the driving forces in arms trading in the last decades and today.
-https://www.youtube.com/watch?v=kxzJ9RFSCJ0
-
-Can we improve social support for the elderly during COVID-19?
+- [Can we improve social support for the elderly during COVID-19?](https://www.youtube.com/watch?v=5tIWuBvA6NI).
 This research highlights which groups of elderly people have either non-existent or insufficient social support during the COVID-19 pandemic and are therefore more vulnerable. For these elderly people, sustainable care policy planning and crisis intervention planning should be organised especially for future waves of the coronavirus and other pandemics.
-https://www.youtube.com/watch?v=5tIWuBvA6NI
-
-Normal or not? How to detect anomalies in networks
+- [Normal or not? How to detect anomalies in networks](https://sciani.com/portfolio/normal-or-not-how-to-detect-anomalies-in-networks/).
 Complex interactions such as financial transactions or links between computers can often be visualised as networks. Anomalies in such networks may indicate deviant behaviour. How can we detect such anomalies?
 In this video we shall encounter a statistical test called Monte Carlo test to address this issue. The Monte Carlo test can also be applied in many other scenarios.
-https://sciani.com/portfolio/normal-or-not-how-to-detect-anomalies-in-networks/
-
-Sometimes, correlation does imply causation
+- [Sometimes, correlation does imply causation](https://www.youtube.com/watch?v=XoLxQfi194c).
 You often hear “correlation does not imply causation” in order to warn the listener about spurious relationships that may be observed in everyday life. The number of homicides seems to correlate with ice cream sales, but clearly this is not a causal relationship. Given that all we can see in real life are mere correlations, can we ever be sure of causality? This video will describe a network inspired definition of causality in order to derive a method, known as the PC algorithm, to detect causal interactions.
-https://www.youtube.com/watch?v=XoLxQfi194c
+
 
  
 
