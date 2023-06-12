@@ -21,11 +21,11 @@ https://www.youtube.com/watch?v=XoLxQfi194c
  
 
 ## Some online seminars
-1 Prof. Gesine Reinert, [Turing Institute Talk](https://www.youtube.com/watch?v=l1iSbsQjWxo)
-1 Prof. Gesine Reinert, Master Class [Inference of Networks](https://www.youtube.com/watch?v=Ha32LmYLmrU)
-1 Prof. Gesine Reinert, [Estimating the number of communities in a network](https://www.newton.ac.uk/seminar/20160727093010001)
-1 Dr. Veronica Vinciotti, [Sparse Gaussian graphical models for dynamic gene regulatory networks](https://www.newton.ac.uk/seminar/20161214111512001)
-1 Prof. Ernst Wit, [Network inference in genomics](https://www.newton.ac.uk/seminar/20160824113012301)
+* Prof. Gesine Reinert, [Turing Institute Talk](https://www.youtube.com/watch?v=l1iSbsQjWxo)
+* Prof. Gesine Reinert, Master Class [Inference of Networks](https://www.youtube.com/watch?v=Ha32LmYLmrU)
+* Prof. Gesine Reinert, [Estimating the number of communities in a network](https://www.newton.ac.uk/seminar/20160727093010001)
+* Dr. Veronica Vinciotti, [Sparse Gaussian graphical models for dynamic gene regulatory networks](https://www.newton.ac.uk/seminar/20161214111512001)
+* Prof. Ernst Wit, [Network inference in genomics](https://www.newton.ac.uk/seminar/20160824113012301)
 
 https://www.newton.ac.uk/seminar/20160715113012001 Prof. Neil Friel, "Properties of Latent Variable Network Models
 
