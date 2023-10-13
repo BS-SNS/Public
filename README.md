@@ -10,3 +10,4 @@ To read/participate in the discussion, click on **Discussions** in the toolbar.
 * [Conferences and meetings](conf/README.md)
 * BS-SNS seminars: [Announcements](https://github.com/BS-SNS/Public/discussions/1?sort=new);
 * [BS meetings](https://bernoullisociety.org/meetings)
+* BS-SNS [school](school)
