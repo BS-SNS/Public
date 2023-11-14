@@ -2,6 +2,7 @@
 
 * [COMPSTAT 2024](http://www.compstat2024.org/) The 26th International Conference on Computational Statistics, 27-30 August 2024, Giessen, Germany.
 * [Bernoulli-ims 11th World Congress in Probability and Statistics](https://www.bernoulli-ims-worldcongress2024.org/), August 12-16, 2024, Bochum, Germany
+* [2024 JSM](https://ww2.amstat.org/meetings/jsm/2024/), August 3-8, 2024, Portland, Oregon, USA
 * [18th International Federation of Classification Societies](https://eventos.cimpa.ucr.ac.cr/index.php/IFCS/IFCS24)
 July 15-19, 2024, San José, Costa Rica
 * [Sunbelt 2024](https://www.insna.org/events/sunbelt-2024---edinburgh), Monday, June 24, 2024 to Sunday, June 30, 2024, Heriot-Watt University, Edinburgh, Scotland; [Web site](https://sunbelt2024.com/)
