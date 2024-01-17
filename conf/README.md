@@ -1,5 +1,6 @@
 # Conferences and meetings
 
+* [COMPLEX NETWORKS 2024](https://complexnetworks.org/) The 13 th International Conference on Complex Networks & Their Applications. Istanbul, Turkey, December 10 - 12, 2024; Submission deadline: september 3, 2024
 * [COMPSTAT 2024](http://www.compstat2024.org/) The 26th International Conference on Computational Statistics, 27-30 August 2024, Giessen, Germany.
 * [Bernoulli-ims 11th World Congress in Probability and Statistics](https://www.bernoulli-ims-worldcongress2024.org/), August 12-16, 2024, Bochum, Germany
 * [2024 JSM](https://ww2.amstat.org/meetings/jsm/2024/), August 3-8, 2024, Portland, Oregon, USA
