@@ -1,5 +1,6 @@
 # Conferences and meetings
 
+## 2024
 * [COMPLEX NETWORKS 2024](https://complexnetworks.org/) The 13 th International Conference on Complex Networks & Their Applications. Istanbul, Turkey, December 10 - 12, 2024; Submission deadline: september 3, 2024
 * [COMPSTAT 2024](http://www.compstat2024.org/) The 26th International Conference on Computational Statistics, 27-30 August 2024, Giessen, Germany.
 * [Bernoulli-ims 11th World Congress in Probability and Statistics](https://www.bernoulli-ims-worldcongress2024.org/), August 12-16, 2024, Bochum, Germany
@@ -8,6 +9,8 @@
 July 15-19, 2024, San José, Costa Rica
 * [Sunbelt 2024](https://www.insna.org/events/sunbelt-2024---edinburgh), Monday, June 24, 2024 to Sunday, June 30, 2024, Heriot-Watt University, Edinburgh, Scotland; [Web site](https://sunbelt2024.com/)
 * [NetSci 2024](https://netsci2024.com/en), June 16th to 21st 2024, Québec City, Canada.
+
+## 2023
 * [12th International Conference on Complex Networks & Their Applications](https://complexnetworks.org/),
 November 28 - 30, 2023, Menton Riviera, France
 * [SDA 2023](https://sda2018.wixsite.com/sda2023paris) IX Workshop on Symbolic Data Analysis, November 2 – 4, 2023, CNAM, Paris, France.
