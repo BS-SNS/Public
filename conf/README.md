@@ -9,6 +9,7 @@
 * [18th International Federation of Classification Societies](https://eventos.cimpa.ucr.ac.cr/index.php/IFCS/IFCS24)
 July 15-19, 2024, San José, Costa Rica
 * [Sunbelt 2024](https://www.insna.org/events/sunbelt-2024---edinburgh), Monday, June 24, 2024 to Sunday, June 30, 2024, Heriot-Watt University, Edinburgh, Scotland; [Web site](https://sunbelt2024.com/)
+* [Workshop on Stein's Method and Networks](https://sites.google.com/view/workshop-stein-networks/home?authuser=0) June 20-21, 2024, Oxford, UK.
 * [NetSci 2024](https://netsci2024.com/en), June 16th to 21st 2024, Québec City, Canada.
 
 ## 2023
