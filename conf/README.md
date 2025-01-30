@@ -1,5 +1,12 @@
 # Conferences and meetings
 
+## 2025
+
+* 
+* https://netsci2025.github.io/satellites/
+* [SIS 2025](https://sis2025.sis-statistica.it/),  Statistics for Innovation. University of Genoa, Genova, Italy, June 16-18, 2025; Submission deadline : February 23, 2025. 
+* [netscix2025](https://netscix2025.iiti.ac.in/), International School and Conference on Network Science, Indian Institute of Technology, Indore (India), January 15-17, 2025
+
 ## 2024
 * [COMPLEX NETWORKS 2024](https://complexnetworks.org/) The 13 th International Conference on Complex Networks & Their Applications. Istanbul, Turkey, December 10 - 12, 2024; Submission deadline: september 3, 2024
 * [Workshop: Innovation in dynamic network modelling](https://www.ci.inf.usi.ch/innodyn/). Università della Svizzera Italiana, Lugano on September 11-13, 2024; abstract by April 30, 2024.
