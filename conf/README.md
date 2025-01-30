@@ -2,7 +2,8 @@
 ## 2025
 
 * [Sunbelt 2025](https://sunbelt2025.org/) INSNA Conference, Sciences Po Paris and at Sorbonne Université, Paris, June 23-29, 2025; Submission deadline: February 20th, 2025
-* [Netsci 2025](https://netsci2025.github.io/satellites/)
+* [NetSci 2025](https://netsci2025.github.io/) International School and Conference on Network Science, Maastricht, the Netherlands, June 2-6 2025; December 9, 2024<br />
+[Satellite meeting](https://netsci2025.github.io/satellites/): [Modelling Dynamic Networks](https://www.ci.inf.usi.ch/netsci-bernoulli/)
 * [netscix 2025](https://netscix2025.iiti.ac.in/)
 * [sis2025](https://sis2025.sis-statistica.it/)
 
