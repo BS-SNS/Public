@@ -2,11 +2,12 @@
 ## 2025
 
 * [Sunbelt 2025](https://sunbelt2025.org/) INSNA Conference, Sciences Po Paris and at Sorbonne Université, Paris, June 23-29, 2025; Submission deadline: February 20th, 2025
+* [SIS 2025](https://sis2025.sis-statistica.it/) Italian Statistical Society Conference, Statistics for Innovation, University of Genoa, Genova, Italy,June 16-18, 2025; Submission: February 23, 2025
 * [NetSci 2025](https://netsci2025.github.io/) International School and Conference on Network Science, Maastricht, the Netherlands, June 2-6 2025; December 9, 2024;
 [Satellite meeting](https://netsci2025.github.io/satellites/): [Modelling Dynamic Networks](https://www.ci.inf.usi.ch/netsci-bernoulli/)
 * [NetSci X 2025](https://netscix2025.iiti.ac.in/) International School and Conference on Network Science,
 Indian Institute of Technology, Indore, India, January 14-17, 2025
-* [sis2025](https://sis2025.sis-statistica.it/)
+
 
 ## 2024
 * [COMPLEX NETWORKS 2024](https://complexnetworks.org/) The 13 th International Conference on Complex Networks & Their Applications. Istanbul, Turkey, December 10 - 12, 2024; Submission deadline: september 3, 2024
