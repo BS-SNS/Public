@@ -1,6 +1,10 @@
 # Conferences and meetings
 See also [Bernoulli society meetings](https://bernoullisociety.org/meetings)
 
+## 2026
+
+* [EMS 2026](https://www.bernoullisociety.org/meetings) 35th European Meeting of Statisticians (EMS), Lugano, Switzerland, August 24-28 2026
+  
 ## 2025
 
 * [Sunbelt 2025](https://sunbelt2025.org/) INSNA Conference, Sciences Po Paris and at Sorbonne Université, Paris, June 23-29, 2025; Submission deadline: February 20th, 2025
