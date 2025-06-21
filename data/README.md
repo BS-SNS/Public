@@ -12,4 +12,6 @@
 - [Bayesys](http://bayesian-ai.eecs.qmul.ac.uk/bayesys/)
 - [Stanford Large Network Dataset Collection](https://snap.stanford.edu/data/)
 - [Pajek datasets](http://vlado.fmf.uni-lj.si/pub/networks/data/)
+- [Past Networks](https://pastnetworks.org/)
+- [Schochastics network data](https://github.com/schochastics/networkdata)
 - []()
