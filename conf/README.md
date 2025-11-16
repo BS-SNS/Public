@@ -4,6 +4,13 @@ See also [Bernoulli society meetings](https://bernoullisociety.org/meetings)
 ## 2026
 
 * [EMS 2026](https://www.bernoullisociety.org/meetings) 35th European Meeting of Statisticians (EMS), Lugano, Switzerland, August 24-28 2026
+* [EUSN 2026](https://liu.se/en/event/eusn-2026) ,  Norrkoping, Sweden, 11-15 August 2026; 1 Dec 2025 – Submission deadline for workshop and session proposals; 1 Mar 2026 – Abstract submission deadline
+* [IFCS 2026](https://ifcs2026.unimib.it/) , University of Milano-Bicocca, Milan, Italy, 14-16 July 2026; Short papers submission 18 January 2026; Abstract submission 15 March 2026
+* [DSSV 2026](https://datascience.maths.unitn.it/dssv2026/) Data Science, Statistics & Visualisation, Polo Scientifico e Tecnologico "Fabio Ferrari" (Trento), Italy, 29 June 2026 to 01 July 2026; Abstract Submission from 1 December 2025 to 25 March 2026 
+* [INSNA Sunbelt 2026](https://www.insna.org/events/sunbelt-2026---daytona-beach) , Hilton Daytona Beach Oceanfront Resort USA, Monday, June 22, 2026 to Sunday, June 28, 2026; 
+* [NetSci 2026](https://www.netsci2026.com/) , Boston, MA, USA, June 1-5, 2026; Dec 19 - Abstract submission deadline 
+* [ISI Regional Statistics Conference 2026](https://www.isi-next.org/conferences/isi-rsc-malta-2026/) , University of Malta, 03 June 2026 - 05 June 2026; Abstract Submission opens 15 December 2026 closes 15 January 2026; CPS Abstract Submission opens 1 September 2025 closes 15 January 2026
+* [COMPLENET 2026](https://complenet.weeblysite.com/) - 17th International Conference on Complex Networks, Zaragoza (Spain), May 4-8 2026; Abstract & papers submission deadline: November 15, 2025 
   
 ## 2025
 
