@@ -6,4 +6,5 @@
 4. [Nynke Niezink](Oct25.md): Dynamics on Networks and Network Dynamics. 24. October 2025, 15:00 CET.
 5. [Joris Mulder](Jan25.md): A latent variable approach for modeling relational data with multiple receivers. Thu 30 January 2025, 13:00-14:00 CET.
 6. [Veronica Vinciotti](Nov24.md): Invariant causal prediction for generalized linear models. Fri November 8 2024, from 2-3 pm UK time, 3-4 pm CET.
+7. [Eric Kolaczyk](Jun23.md): Coevolving latent space network with attractors models for polarization. June 12, 2023, 12-13 UTC (13-14 London Time).
 
