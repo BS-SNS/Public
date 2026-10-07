@@ -1,6 +1,12 @@
 # Conferences and meetings
 See also [Bernoulli society meetings](https://bernoullisociety.org/meetings)
 
+## 2027
+
+* [Sunbelt XLVII](https://www.insna.org/events/sunbelt-2027-montreal) Montréal, QC, Canada at Le Centre Sheraton Montreal Hotel from June 21-26, 2027.
+  * Call for Workshops - deadline to submit is November 6, 2026 
+
+  
 ## 2026
 
 * [COMPSTAT 2026](https://www.cmstatistics.org/CFECMStatistics2025/announcements.php) 27th International Conference on Computational Statistics, Athens, Greece,   25-28 August 2026
