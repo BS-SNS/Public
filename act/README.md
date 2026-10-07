@@ -1,0 +1,2 @@
+# Activities - sessions, workshops
+
