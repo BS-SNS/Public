@@ -10,6 +10,6 @@ You can also join the [SNS mailing list](https://www.jiscmail.ac.uk/cgi-bin/wa-j
 [Statistical Network Science](https://bernoullisociety.org/who-is-who/53-general/337-statistical-network-science-committee)
 
 * [Conferences and meetings](conf/README.md)
-* [BS-SNS seminars](./seminar) / [Announcements](https://github.com/BS-SNS/Public/discussions/1?sort=new);
+* [BS-SNS seminars](./seminar/README.md) / [Announcements](https://github.com/BS-SNS/Public/discussions/1?sort=new);
 * [BS meetings](https://bernoullisociety.org/meetings)
 * BS-SNS [school](school)
