@@ -1,4 +1,4 @@
-# Becoming a member
+# Becoming a collaborator
 
 To be granted private pages and editing access on GitHub, you need to have a GitHub username:
 
