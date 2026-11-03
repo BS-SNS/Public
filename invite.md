@@ -8,5 +8,5 @@ Instructions on how to obtain one can be found here:
 
 [creating an account on github](https://docs.github.com/en/account-and-profile/how-tos/account-management/creating-an-account-on-github)
 
-Once you let me know your GitHub username, I will invite you to become a collaborator.
+Once you let me know your GitHub username, I will invite you to become a collaborator on both repositories, Public and Private.
 
