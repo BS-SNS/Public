@@ -9,17 +9,14 @@
   
 ## 2026
 
-* [EMS 2026](https://www.bernoullisociety.org/meetings) 35th European Meeting of Statisticians (EMS), Lugano, Switzerland, August 24-28 2026 *Invited session on [Graphical Models for Complex Networks (https://www.ems26.org/abstracts?sessionNumber=I20)
-* [DSSV 2026](https://datascience.maths.unitn.it/dssv2026/) Data Science, Statistics & Visualisation, Trento, Italy, 29 June 2026 to 01 July 2026; Abstract Submission from 1 December 2025 to 25 March 2026 *Invited session on [Dynamic network modelling](https://datascience.maths.unitn.it/dssv2026/invited.html#IS01)
-* [INSNA Sunbelt 2026](https://www.insna.org/events/sunbelt-2026---daytona-beach) , Hilton Daytona Beach Oceanfront Resort USA, Monday, June 22, 2026 to Sunday, June 28, 2026; 
-* [NetSci 2026](https://www.netsci2026.com/) , Boston, MA, USA, June 1-5, 2026; Dec 19 - Abstract submission deadline 
-* [ISI Regional Statistics Conference 2026](https://www.isi-next.org/conferences/isi-rsc-malta-2026/) , University of Malta, 03 June 2026 - 05 June 2026; Abstract Submission opens 15 December 2026 closes 15 January 2026; CPS Abstract Submission opens 1 September 2025 closes 15 January 2026
-* [COMPLENET 2026](https://complenet.weeblysite.com/) - 17th International Conference on Complex Networks, Zaragoza (Spain), May 4-8 2026; Abstract & papers submission deadline: November 15, 2025 
-  
+* [EMS 2026](https://www.bernoullisociety.org/meetings) 35th European Meeting of Statisticians (EMS), Lugano, Switzerland, August 24-28 2026 
+  *Invited session on [Graphical Models for Complex Networks](https://www.ems26.org/abstracts?sessionNumber=I20)
+* [DSSV 2026](https://datascience.maths.unitn.it/dssv2026/) Data Science, Statistics & Visualisation, Trento, Italy, 29 June 2026 to 01 July 2026
+  *Invited session on [Dynamic network modelling](https://datascience.maths.unitn.it/dssv2026/invited.html#IS01)
+
 ## 2025
 
 * [Sunbelt 2025](https://sunbelt2025.org/) INSNA Conference, Sciences Po Paris and at Sorbonne Université, Paris, June 23-29, 2025; Submission deadline: February 20th, 2025
-* [SIS 2025](https://sis2025.sis-statistica.it/) Italian Statistical Society Conference, Statistics for Innovation, University of Genoa, Genova, Italy,June 16-18, 2025; Submission: February 23, 2025
 * [NetSci 2025](https://netsci2025.github.io/) International School and Conference on Network Science, Maastricht, the Netherlands, June 2-6 2025; December 9, 2024;
 [Satellite meeting](https://netsci2025.github.io/satellites/): [Modelling Dynamic Networks](https://www.ci.inf.usi.ch/netsci-bernoulli/)
 * [NetSci X 2025](https://netscix2025.iiti.ac.in/) International School and Conference on Network Science,
@@ -36,7 +33,7 @@ Indian Institute of Technology, Indore, India, January 14-17, 2025
 * [18th International Federation of Classification Societies](https://eventos.cimpa.ucr.ac.cr/index.php/IFCS/IFCS24)
 July 15-19, 2024, San José, Costa Rica
 * [Sunbelt 2024](https://www.insna.org/events/sunbelt-2024---edinburgh), Monday, June 24, 2024 to Sunday, June 30, 2024, Heriot-Watt University, Edinburgh, Scotland; [Web site](https://sunbelt2024.com/)
-* [Workshop on Stein's Method and Networks](https://sites.google.com/view/workshop-stein-networks/home?authuser=0) June 20-21, 2024, Oxford, UK. Poster abstract by June 3rd. **Online participation**.
+* [Workshop on Stein's Method and Networks](https://sites.google.com/view/workshop-stein-networks/home?authuser=0) June 20-21, 2024, Oxford, UK. **Online participation**.
 * [NetSci 2024](https://netsci2024.com/en), June 16th to 21st 2024, Québec City, Canada.
 
 ## 2023
@@ -48,4 +45,3 @@ November 28 - 30, 2023, Menton Riviera, France
 * [Sunbelt 2023](https://www.insna.org/events/sunbelt-2023), Tuesday, June 27, 2023 to Saturday, July 1, 2023, Portland, Oregon and Online
 * [Workshop: Sparse Inference on Complex Networks](https://www.ci.inf.usi.ch/workshop-sparse-inference-on-complex-networks/),  at Università della Svizzera italiana, Lugano, June 26-27, 2023
 * [Workshop on sustainability of network analysis software](https://igraph.org/workshop.html), at University Leiden, Leiden, the Netherlands, 21-22 June, 2023
-* 
