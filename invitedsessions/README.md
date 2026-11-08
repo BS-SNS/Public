@@ -2,7 +2,7 @@
 
 ## 2027
 
-* [Sunbelt XLVII](https://www.insna.org/events/sunbelt-2027-montreal) Montréal, QC, Canada at Le Centre Sheraton Montreal Hotel from June 21-26, 2027.
+* [Sunbelt 2027](https://www.insna.org/events/sunbelt-2027-montreal) Montréal, QC, Canada at Le Centre Sheraton Montreal Hotel from June 21-26, 2027.
   * Invited session on 
 
   
