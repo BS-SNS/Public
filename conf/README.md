@@ -12,6 +12,7 @@ See also [Bernoulli society meetings](https://bernoullisociety.org/meetings)
   
 ## 2026
 
+* [Machine Learning and Signal Processing on Graphs](https://conferences.cirm-math.fr/3653.htm), Marseille, France, September 21-25 2026
 * [COMPSTAT 2026](https://www.cmstatistics.org/CFECMStatistics2025/announcements.php) 27th International Conference on Computational Statistics, Athens, Greece,   25-28 August 2026
 * [EMS 2026](https://www.bernoullisociety.org/meetings) 35th European Meeting of Statisticians (EMS), Lugano, Switzerland, August 24-28 2026
 * [EUSN 2026](https://liu.se/en/event/eusn-2026) ,  Norrkoping, Sweden, 11-15 August 2026; 1 Dec 2025 – Submission deadline for workshop and session proposals; 1 Mar 2026 – Abstract submission deadline
