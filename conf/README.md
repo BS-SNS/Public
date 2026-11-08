@@ -1,4 +1,4 @@
-# Conferences and meetings
+# Conferences and workshops
 See also [Bernoulli society meetings](https://bernoullisociety.org/meetings)
 
 ## 2027
