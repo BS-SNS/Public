@@ -3,7 +3,7 @@
 ## 2027
 
 * [Sunbelt XLVII](https://www.insna.org/events/sunbelt-2027-montreal) Montréal, QC, Canada at Le Centre Sheraton Montreal Hotel from June 21-26, 2027.
-  * Invited session: 
+  * Invited session on 
 
   
 ## 2026
@@ -13,13 +13,12 @@
 * [DSSV 2026](https://datascience.maths.unitn.it/dssv2026/) Data Science, Statistics & Visualisation, Trento, Italy, 29 June 2026 to 01 July 2026
   * Invited session on [Dynamic network modelling](https://datascience.maths.unitn.it/dssv2026/invited.html#IS01)
 * [IFCS 2026](https://ifcs2026.unimib.it/) , University of Milano-Bicocca, Milan, Italy, 14-16 July 2026
-  * Invited session on *Network Clustering and Blockmodeling*
+  * Invited session on [Network Clustering and Blockmodeling](https://ifcs2026.unimib.it/scientific-conference-program)
 
 ## 2025
 
 * [Sunbelt 2025](https://sunbelt2025.org/) INSNA Conference, Sciences Po Paris and at Sorbonne Université, Paris, June 23-29, 2025
-* [NetSci 2025](https://netsci2025.github.io/) International School and Conference on Network Science, Maastricht, the Netherlands, June 2-6 2025; December 9, 2024;
-[Satellite meeting](https://netsci2025.github.io/satellites/): [Modelling Dynamic Networks](https://www.ci.inf.usi.ch/netsci-bernoulli/)
+  * Invited sessions on [Statistical Approaches for Modelling Network Dynamics](https://sunbelt2025.org/home-2-2/)
 
 
 ## 2024
