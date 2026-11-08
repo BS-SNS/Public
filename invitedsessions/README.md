@@ -1,22 +1,16 @@
-# Conferences and meetings
-See also [Bernoulli society meetings](https://bernoullisociety.org/meetings)
+# Invited sessions at workshops/conferences organized by the SNS committee
 
 ## 2027
 
 * [Sunbelt XLVII](https://www.insna.org/events/sunbelt-2027-montreal) Montréal, QC, Canada at Le Centre Sheraton Montreal Hotel from June 21-26, 2027.
-  * Call for Workshops - deadline to submit is November 6, 2026 
-* [NetSciX 2027](https://netscix2027.github.io/): Network Science Meets AI, Hong Kong SAR, January 24–27, 2027
-  * Abstract Deadline: October 31, 2026
+  * Invited session: 
 
 
   
 ## 2026
 
-* [COMPSTAT 2026](https://www.cmstatistics.org/CFECMStatistics2025/announcements.php) 27th International Conference on Computational Statistics, Athens, Greece,   25-28 August 2026
-* [EMS 2026](https://www.bernoullisociety.org/meetings) 35th European Meeting of Statisticians (EMS), Lugano, Switzerland, August 24-28 2026
-* [EUSN 2026](https://liu.se/en/event/eusn-2026) ,  Norrkoping, Sweden, 11-15 August 2026; 1 Dec 2025 – Submission deadline for workshop and session proposals; 1 Mar 2026 – Abstract submission deadline
-* [IFCS 2026](https://ifcs2026.unimib.it/) , University of Milano-Bicocca, Milan, Italy, 14-16 July 2026; Short papers submission 18 January 2026; Abstract submission 15 March 2026
-* [DSSV 2026](https://datascience.maths.unitn.it/dssv2026/) Data Science, Statistics & Visualisation, Polo Scientifico e Tecnologico "Fabio Ferrari" (Trento), Italy, 29 June 2026 to 01 July 2026; Abstract Submission from 1 December 2025 to 25 March 2026 
+* [EMS 2026](https://www.bernoullisociety.org/meetings) 35th European Meeting of Statisticians (EMS), Lugano, Switzerland, August 24-28 2026 *Invited session on [Graphical Models for Complex Networks (https://www.ems26.org/abstracts?sessionNumber=I20)
+* [DSSV 2026](https://datascience.maths.unitn.it/dssv2026/) Data Science, Statistics & Visualisation, Trento, Italy, 29 June 2026 to 01 July 2026; Abstract Submission from 1 December 2025 to 25 March 2026 *Invited session on [Dynamic network modelling](https://datascience.maths.unitn.it/dssv2026/invited.html#IS01)
 * [INSNA Sunbelt 2026](https://www.insna.org/events/sunbelt-2026---daytona-beach) , Hilton Daytona Beach Oceanfront Resort USA, Monday, June 22, 2026 to Sunday, June 28, 2026; 
 * [NetSci 2026](https://www.netsci2026.com/) , Boston, MA, USA, June 1-5, 2026; Dec 19 - Abstract submission deadline 
 * [ISI Regional Statistics Conference 2026](https://www.isi-next.org/conferences/isi-rsc-malta-2026/) , University of Malta, 03 June 2026 - 05 June 2026; Abstract Submission opens 15 December 2026 closes 15 January 2026; CPS Abstract Submission opens 1 September 2025 closes 15 January 2026
