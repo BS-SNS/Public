@@ -19,7 +19,7 @@
 
 * [Sunbelt 2025](https://sunbelt2025.org/) INSNA Conference, Sciences Po Paris and at Sorbonne Université, Paris, June 23-29, 2025
   * Invited sessions on [Statistical Approaches for Modelling Network Dynamics](https://sunbelt2025.org/home-2-2/)
-
+* [New Trends in Statistical Network Data Anlaysis](https://www.math.uni-leipzig.de/statnet25/), Kloster Nimbshen, Germany, 22-25 September 2025
 
 ## 2024
 * [Workshop: Innovation in dynamic network modelling](https://www.ci.inf.usi.ch/innodyn/). Università della Svizzera italiana, Lugano, September 11-13, 2024
