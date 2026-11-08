@@ -15,10 +15,11 @@ You can join the [SNS mailing list](https://www.jiscmail.ac.uk/cgi-bin/wa-jisc.e
 Below a list of the main activities of the committee:
 
 * [SNS seminar series](./seminar/README.md)
+* [SNS invited sessions at workshops/conferences](./invitedsessions/README.md)
 * [SNS school on hypergraphs](school)
 
 Below some useful information if you are interested in statistics/network science:
 
-* [Conferences and meetings](conf/README.md)
+* [Conferences and workshops](conf/README.md)
 * [Bernoulli Society meetings](https://bernoullisociety.org/meetings)
 * [Bernoulli Society](https://en.wikipedia.org/wiki/Bernoulli_Society_for_Mathematical_Statistics_and_Probability)
