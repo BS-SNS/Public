@@ -10,11 +10,11 @@ To read/participate in the discussion, click on **Discussions** in the toolbar.
 
 
 
-You can join the [SNS mailing list](https://www.jiscmail.ac.uk/cgi-bin/wa-jisc.exe?A0=SNS) to keep up-to-date with the latest activities of the committee.
+You can join the [SNS mailing list](https://www.jiscmail.ac.uk/cgi-bin/wa-jisc.exe?A0=SNS) to keep up-to-date with the latest activities of the committee, or check the [Announcements](https://github.com/BS-SNS/Public/discussions/1?sort=new) on this page.
 
 Below a list of the main activities of the committee:
 
-* [SNS seminar series](./seminar/README.md) / [Announcements](https://github.com/BS-SNS/Public/discussions/1?sort=new);
+* [SNS seminar series](./seminar/README.md)
 * [SNS school on hypergraphs](school)
 
 Below some useful information if you are interested in statistics/network science:
