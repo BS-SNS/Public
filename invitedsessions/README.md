@@ -25,7 +25,7 @@
 * [Workshop: Innovation in dynamic network modelling](https://www.ci.inf.usi.ch/innodyn/). Università della Svizzera italiana, Lugano, September 11-13, 2024
 * [Bernoulli-ims 11th World Congress in Probability and Statistics](https://www.bernoulli-ims-worldcongress2024.org/), August 12-16, 2024, Bochum, Germany
   * Invited sessions on *Relational Event Models 2.0* and *Network Stochastic Processes*
-* [Workshop on Stein's Method and Networks](https://sites.google.com/view/workshop-stein-networks/home?authuser=0) June 20-21, 2024, Oxford, UK. **Online participation**.
+* [Workshop: Stein's Method and Networks](https://sites.google.com/view/workshop-stein-networks/home?authuser=0) June 20-21, 2024, Oxford, UK. **Online participation**.
 * [Workshop: Causal inference and prediction for network data](https://www.birs.ca/events/2024/5-day-workshops/24w5244), Banff, Canada, August 18-23, 2024
 
 ## 2023
