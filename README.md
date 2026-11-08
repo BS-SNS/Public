@@ -1,6 +1,6 @@
 # Statistical Network Science Committee
 
-This is the public GitHub repository of the [**Statistical Network Science**](https://bernoullisociety.org/who-is-who/53-general/337-statistical-network-science-committee) committee of the [**Bernoulli Society**](https://bernoullisociety.org/)  (BS-SNS). Most of the BS-SNS repositories are public - anybody can read them. 
+This is the public GitHub repository of the [**Statistical Network Science**](https://bernoullisociety.org/who-is-who/53-general/337-statistical-network-science-committee) committee of the [**Bernoulli Society**](https://bernoullisociety.org/)  (BS-SNS). 
 
 The [Private](https://github.com/BS-SNS/Private) repository can be seen and accessed only by the collaborators - invited users. To be invited, you need to be a member of BS-SNS and have your own GitHub user account. In that case, you can send  Vladimir Batagelj (vladimir.batagelj@fmf.uni-lj.si) your GitHub username in order to be invited (see [details](./invite.md)). You need to be a collaborator also to make changes (edit text, create folders and files, add files, etc.) in public repositories.
 
