@@ -9,8 +9,8 @@
   
 ## 2026
 
-* [EMS 2026](https://www.bernoullisociety.org/meetings) 35th European Meeting of Statisticians (EMS), Lugano, Switzerland, August 24-28 2026 
-  *Invited session on [Graphical Models for Complex Networks](https://www.ems26.org/abstracts?sessionNumber=I20)
+* [EMS 2026](https://www.bernoullisociety.org/meetings) 35th European Meeting of Statisticians (EMS), Lugano, Switzerland, August 24-28 2026.
+  * Invited session on [Graphical Models for Complex Networks](https://www.ems26.org/abstracts?sessionNumber=I20)
 * [DSSV 2026](https://datascience.maths.unitn.it/dssv2026/) Data Science, Statistics & Visualisation, Trento, Italy, 29 June 2026 to 01 July 2026
   *Invited session on [Dynamic network modelling](https://datascience.maths.unitn.it/dssv2026/invited.html#IS01)
 
