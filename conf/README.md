@@ -54,4 +54,3 @@ November 28 - 30, 2023, Menton Riviera, France
 * [Sunbelt 2023](https://www.insna.org/events/sunbelt-2023), Tuesday, June 27, 2023 to Saturday, July 1, 2023, Portland, Oregon and Online
 * [Workshop: Sparse Inference on Complex Networks](https://www.ci.inf.usi.ch/workshop-sparse-inference-on-complex-networks/),  at Università della Svizzera italiana, Lugano, June 26-27, 2023
 * [Workshop on sustainability of network analysis software](https://igraph.org/workshop.html), at University Leiden, Leiden, the Netherlands, 21-22 June, 2023
-* 
