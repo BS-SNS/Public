@@ -1,15 +1,25 @@
-# Public
-This is the public info GitHub repository of **Bernoulli Society - Statistical Network Science** (BS-SNS). Most of the BS-SNS repositories are public - anybody can read them. The private repository [Private](https://github.com/BS-SNS/Private) can be seen and accessed only by the collaborators - invited users. To be invited, you need to be a member of BS-SNS and have (create) your GitHub user account and send  me (vladimir.batagelj@fmf.uni-lj.si) your GitHub username so that I can invite you. You need to be a collaborator also to make changes (edit text, create folders and files, add files, etc.) in public repositories.
+# Statistical Network Science Committee
 
-To read/participate in the discussion, click on **Discussions** in the toolbar. 
+This is the public GitHub repository of the [**Statistical Network Science**](https://bernoullisociety.org/who-is-who/53-general/337-statistical-network-science-committee) (SNS) committee of the [**Bernoulli Society**](https://bernoullisociety.org/). 
 
-You can also join the [SNS mailing list](https://www.jiscmail.ac.uk/cgi-bin/wa-jisc.exe?A0=SNS).
+The [Private](https://github.com/BS-SNS/Private) repository can be seen and accessed only by the collaborators - invited users. To be invited, you need to be a member of SNS and to have your own GitHub user account. In that case, you can send  Vladimir Batagelj (vladimir.batagelj@fmf.uni-lj.si) your GitHub username in order to be invited (see [details](./invite.md)). You need to be a collaborator also to make changes (edit text, create folders and files, add files, etc.) in public repositories.
 
-[Bernoulli Society](https://bernoullisociety.org/) for Mathematical Statistics and Probability [Wp](https://en.wikipedia.org/wiki/Bernoulli_Society_for_Mathematical_Statistics_and_Probability)
-/
-[Statistical Network Science](https://bernoullisociety.org/who-is-who/53-general/337-statistical-network-science-committee)
 
-* [Conferences and meetings](conf/README.md)
-* BS-SNS seminars: [Announcements](https://github.com/BS-SNS/Public/discussions/1?sort=new);
-* [BS meetings](https://bernoullisociety.org/meetings)
-* BS-SNS [school](school)
+
+To read/participate in the discussion, click on **Discussions** in the toolbar.
+
+
+
+You can join the [SNS mailing list](https://www.jiscmail.ac.uk/cgi-bin/wa-jisc.exe?A0=SNS) to keep up-to-date with the latest activities of the committee, or check the [Announcements](https://github.com/BS-SNS/Public/discussions/1?sort=new) on this page.
+
+You can find below a list of the main activities of the committee:
+
+* [SNS seminar series](./seminar/README.md)
+* [SNS invited sessions at workshops/conferences](./invitedsessions/README.md)
+* [SNS school on hypergraphs](school)
+
+You can find below some useful information if you are interested in statistics/network science:
+
+* [Conferences and workshops](conf/README.md)
+* [Bernoulli Society meetings](https://bernoullisociety.org/meetings)
+* [Bernoulli Society](https://en.wikipedia.org/wiki/Bernoulli_Society_for_Mathematical_Statistics_and_Probability)
