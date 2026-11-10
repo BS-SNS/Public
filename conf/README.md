@@ -4,7 +4,10 @@ See also [Bernoulli society meetings](https://bernoullisociety.org/meetings)
 ## 2027
 
 * [Sunbelt 2027](https://www.insna.org/events/sunbelt-2027-montreal) Montréal, QC, Canada at Le Centre Sheraton Montreal Hotel from June 21-26, 2027.
-  * Call for Workshops - deadline to submit is November 6, 2026 
+  * Call for Workshops - deadline to submit is November 6, 2026
+* [NetSci 2027](https://netsci2027.github.io/) TU Dresden, Germany, from 17 to 21 May 2027
+  * satellites and the school on 17–18 May, followed by the main conference from 18 to 21 May
+  * deadline to submit is 1 December 2026.
 * [NetSciX 2027](https://netscix2027.github.io/): Network Science Meets AI, Hong Kong SAR, January 24–27, 2027
   * Abstract Deadline: October 31, 2026
 
