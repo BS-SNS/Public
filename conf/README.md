@@ -1,6 +1,7 @@
 # Conferences and workshops
 See also [Bernoulli society meetings](https://bernoullisociety.org/meetings)
 
+* [COMPLEX NETWORKS 2024](https://complexnetworks.org/) The 13 th International Conference on Complex Networks & Their Applications, Istanbul, Turkey, December 10 - 12, 2024; Submission deadline: september 3, 2024
 ## 2027
 
 * [Sunbelt 2027](https://www.insna.org/events/sunbelt-2027-montreal) Montréal, QC, Canada at Le Centre Sheraton Montreal Hotel from June 21-26, 2027.
